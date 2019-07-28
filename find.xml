@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'passenger-traffic'" />
-    <option name="defaultScopeName" value="Project 'passenger-traffic'" />
-    <option name="SEARCH_SCOPE" value="Project 'passenger-traffic'" />
+    <option name="customScope" value="Project 'daily-problem'" />
+    <option name="defaultScopeName" value="Project 'daily-problem'" />
+    <option name="SEARCH_SCOPE" value="Project 'daily-problem'" />
   </component>
 </application>

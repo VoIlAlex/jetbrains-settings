@@ -7,5 +7,7 @@
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.tree.ui.experimental" value="false" />
+    <entry key="async.project.view.collapse.tree.path.recursively" value="false" />
+    <entry key="ide.tree.collapse.recursively" value="false" />
   </component>
 </application>

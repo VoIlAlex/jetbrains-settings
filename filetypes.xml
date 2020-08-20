@@ -6,7 +6,6 @@
       <mapping pattern="antiforgery" type="PLAIN_TEXT" />
       <mapping ext="parser" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="webcam_mirror" type="Python" />
       <mapping pattern="propositions_fetch_speed" type="yarn.lock" />

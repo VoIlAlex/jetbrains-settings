@@ -5,6 +5,7 @@
       <mapping pattern=".product" type="PLAIN_TEXT" />
       <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="antiforgery" type="PLAIN_TEXT" />
+      <mapping pattern="product_id" type="PLAIN_TEXT" />
       <mapping ext="parser" type="PLAIN_TEXT" />
       <mapping ext="py'" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />

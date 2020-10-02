@@ -2,9 +2,10 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="mp4" type="Native" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern=".product" type="PLAIN_TEXT" />
-      <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="antiforgery" type="PLAIN_TEXT" />
+      <mapping pattern="hello" type="PLAIN_TEXT" />
       <mapping pattern="product_id" type="PLAIN_TEXT" />
       <mapping ext="parser" type="PLAIN_TEXT" />
       <mapping ext="py'" type="PLAIN_TEXT" />
